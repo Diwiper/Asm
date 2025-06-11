@@ -16,5 +16,5 @@
 
  Develop a program to calculate the values ​​of functions and display their graphs on the screen. 
  Display the coordinate axes. Specify the arguments of trigonometric functions in radians. 
- Display the graphs of all functions involved in the variant and the graph of the resulting function on the screen in different colors.
+ Display the graphs of all functions involved in the variant and the graph of the resulting function on the screen in different colors.  
  **FUNCTION: y=0,7*x^2+5,7*x+1** 
